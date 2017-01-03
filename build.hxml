@@ -1,0 +1,6 @@
+-cp src
+-main Main
+-js main.js
+-lib js-virtual-dom hxx hxx4dom
+-dce full
+-D analyzer
